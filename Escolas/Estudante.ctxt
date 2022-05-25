@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Estudante
+comment1.params=
+comment1.target=Estudante()
+comment2.params=n
+comment2.target=void\ setNivelLeitura(int)
+comment3.params=
+comment3.target=int\ getNivelLeitura()
+comment4.params=cpf
+comment4.target=void\ setCpf(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getcpf()
+numComments=6

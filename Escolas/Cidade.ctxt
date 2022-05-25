@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Cidade
+comment1.params=
+comment1.target=Cidade()
+comment2.params=novoNome
+comment2.target=void\ setNome(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNome()
+comment4.params=escolas
+comment4.target=void\ setEscolas(java.util.ArrayList)
+comment5.params=
+comment5.target=java.util.ArrayList\ getEscolas()
+comment6.params=
+comment6.target=double\ mediaCidade()
+numComments=7
