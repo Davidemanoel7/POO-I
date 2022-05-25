@@ -10,10 +10,10 @@ public class TesteMercado
     }
     
     public Rede teste(){
-        Rede RedeMercado = criarRede();
-        RedeMercado.setMercados(criarMercado(10));
+        Rede redeMercado = criarRede();
+        redeMercado.setMercados(criarMercado(10));
         
-        return RedeMercado;
+        return redeMercado;
     }
     
     public Produto criarProduto(){
