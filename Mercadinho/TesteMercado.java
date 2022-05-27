@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 public class TesteMercado
 {
-    // variáveis de instância - substitua o exemplo abaixo pelo seu próprio
+    
     private Random r = new Random();
     public TesteMercado()
     {
